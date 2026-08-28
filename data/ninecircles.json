@@ -1,18 +1,15 @@
 {
-    "id": ,
-    "name": "Rupture",
-    "author": "Jekko",
-    "creators": ["Jekko"],
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
     "verifier": "PotokDasher",
     "verification": "https://www.youtube.com/watch?v=qHxq-_aqqmQ",
-    "percentToQualify": 100,
+    "percentToQualify": 50,
     "password": "No Copy",
     "records": [
         {
-            "user": "wClare",
-            "link": "?",
-            "percent": 0,
-            "hz": 200
+ 
         }
     ]
 }
