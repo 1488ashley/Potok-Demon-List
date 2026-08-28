@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 10505306,
+    "name": "Rupture",
+    "author": "Jekko",
+    "creators": ["Jekko"],
+    "verifier": "PotokDasher",
+    "verification": "https://www.youtube.com/watch?v=qHxq-_aqqmQ",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "wClare",
+            "link": "?",
+            "percent": 0,
+            "hz": 200
         }
     ]
 }
