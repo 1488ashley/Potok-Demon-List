@@ -1,18 +1,15 @@
 {
-    "id": 10505306,
-    "name": "Rupture",
-    "author": "Jekko",
-    "creators": ["Jekko"],
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "Zenthicalpha",
+    "creators": ["Zenthicalpha"],
     "verifier": "PotokDasher",
-    "verification": "https://www.youtube.com/watch?v=qHxq-_aqqmQ",
-    "percentToQualify": 100,
+    "verification": "?",
+    "percentToQualify": 50,
     "password": "No Copy",
     "records": [
         {
-            "user": "wClare",
-            "link": "?",
-            "percent": 0,
-            "hz": 200
+           
         }
     ]
 }
